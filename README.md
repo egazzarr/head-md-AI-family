@@ -95,9 +95,7 @@ The ------ is a dinner experience during which family memebrs will be "replaced"
 - speculative everything, anthony dunne and fiona raby
 - catalogue d'objects introuvables, carelman
 - [Lisa's Master Thesis with refs](https://giraudlisa53.wixsite.com/insupportable?fbclid=PAT01DUAQLnbdleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacNYoAbTSbgYzueK5IVP50PAiu2aY8by0I4a5q0ARRbwX08Fsk72aLjdTehfg_aem_CVtbRAVF8bNy9FmpqlTnvg)
-
 - Nicolas Nova, Persistance du marveilleux
-
 - Kafka, Crossbreed, 1 page story
 - Borges, Book of imaginary beings
 - Umwelt: Jakob von Uexkull, 1920s, life of a tick 
