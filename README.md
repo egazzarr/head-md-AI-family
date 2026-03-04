@@ -4,6 +4,25 @@
 ### Teachers: Matteo Loglio, Alexia Mathieu
 ### Assistants: Pablo Bellon, Vytas Jankauskas
 
+#### User tests - 2026.03.04
+
+SCENARIO AND INTENTION:
+
+Scenes from a family dinner (with AI). 
+You are invited at an intriguing dinner table, with three strange hosts to entertain you and accompany you during your meal. 
+As the dinner evolves, you start understanding the family language between these three creature: what they like, what they dislike and how they try to interact with you. 
+In the beginning you might be confused at what they are trying to tell you, but if you are patient enough you will soon fell welcome at this curious family drama.
+
+NEW characters:
+
+![alt text](03-04-miro.png)
+
+#### User tests - 2026.03.03
+[PDF with user feedback](process/03-04-user_tests.pdf)
+![](process/DSCF2064.JPG)
+| ![](process/DSCF1975.JPG) |![](process/DSCF2028.JPG) |![](process/DSCF2045.JPG) |
+|:-----------------:|:-----------------:|:-----------------:|
+
 #### New week! - 2026.03.02
 Today, we started thinking about gears and wrote the whole 3 characters' personalities, starting to think about shapes.
 - no digital sound produced, only analogue. 
@@ -100,6 +119,7 @@ The ------ is a dinner experience during which family memebrs will be "replaced"
 - Borges, Book of imaginary beings
 - Umwelt: Jakob von Uexkull, 1920s, life of a tick 
 - Manieres de table, Jean Claude Lebensztejn
+- Nick Bostrom, Universal Paper Clip factory
 
 
 #### References (arts)
