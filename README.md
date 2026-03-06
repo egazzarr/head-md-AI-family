@@ -4,6 +4,26 @@
 ### Teachers: Matteo Loglio, Alexia Mathieu
 ### Assistants: Pablo Bellon, Vytas Jankauskas
 
+
+#### Presentation - 2026.03.06
+Comments of Pablo and Vytas
+- focus on the scenario script and video
+- you are jumping too quickly to the objects
+- what is the point?
+- Maybe AI drama?
+- How do I control chaos?
+- Why do these objects need to exist?
+
+#### Feasability - 2026.03.05
+
+Today we went to the metal and wood ateliers, and planned some encounters next week to produce the final design. 
+
+AI promtpt:
+scenario: Scenes from a family dinner (with AI). You are invited at an intriguing dinner table, with 3 strange hosts to entertain you and accompany you during your meal. As the dinner evolves, you start understanding the family language between these three creature: what they like, what they dislike and how they try to interact with you. In the beginning you might be confused at what they are trying to tell you, but if you are patient enough you will soon fell welcome at this curious family drama. the three characters have a name, a personality, ideologies. two of them trigger the movement of arduino motors. one of them produces sounds. The 3 outputs are based on their personalities, and I want you, AI model, to orchestrate them. here the three characters: 1. the dreamer. Teenager. Dreamer. Head in the clouds. Distracted, in his thoughts. Sometimes starts telling a random story of something he has seen out of the blue. Slightly mumbles and doesn't articulate well some words. He doesn't realise your presence. He is there without being there. He has his own temporality. Out of time. He is passive, he speaks to you if you speak to him, otherwise lives on his own life. Considerate and non-chalant. He likes conversations and doesnt like when people are too loud or excited. Input: voice Output: circular movement. if you dont speak to him and no sound at all, motor is still. if you speak to him, he turns. the more the noise and loudness of the voice, the more he gets upset and turns faster. 2. the cheeky kid. He is the young kid at the table. He is bored of being there. He doesn't care what is being said, he just wants to play and get up, but the parents force him at the table. Hyperactive. Extrovert. Kid, running around. He seeks attention. Uncontrollable. At some point of the evening, he loses control. He shoots peas in every direction. he likes Playing. Laughing. Making jokes. he doesnt like vegetables and if he has nobody to play with. Input: camera face detection. output: if people look at him, he stops moving. if he receives no attention, he starts moving faster or slower. 3. the dinner hostess. She likes everybody to follow the rules of the table. She is the guardian of a pleasant and ordered dinner experience. She overlooks everything that happens and assures that everybody has a good time. Politely authoritative radar that reminds you what your place is. Equilibrated and control-freak. she likes When everything is in order. Predictable events. she hates Unexpected events. Phones at the table. The kid to throw peas at the guest. she is only a speaker, a voice but doesnt speak in words, just in sounds: of excitement, of disapointment, shouts, accondiscending, etc. she has a constant voice rhythm. input: camera (object and pose detection) and sound. output: sounds that express emotions. She activates when you get out of your dinner place, or if she sees a phone, or if she is extremely disapointed or disapointed, otherwise she maintains her rhythm. i want you to help me with this. do you think you would be able to create these three characters and orchestrate them based on camera and sound inputs?
+
+|![](process/03-06-1.png) |![](process/03-06-wood.png) |![](process/stl1.jpeg) |![](process/stl2.jpeg)|
+|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+
 #### User tests - 2026.03.04
 
 SCENARIO AND INTENTION:
