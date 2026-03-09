@@ -4,7 +4,11 @@
 ### Teachers: Matteo Loglio, Alexia Mathieu
 ### Assistants: Pablo Bellon, Vytas Jankauskas
 
+#### Final Week, production - 2026.03.09
+User Journey written down
 
+|![](process/03-06-1.png) |![](process/03-06-2.png) |![](process/03-06-3.png)|
+|:-----------------:|:-----------------:|:-----------------:|
 #### Presentation - 2026.03.06
 Comments of Pablo and Vytas
 - focus on the scenario script and video
