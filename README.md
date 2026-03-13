@@ -4,6 +4,16 @@
 ### Teachers: Matteo Loglio, Alexia Mathieu
 ### Assistants: Pablo Bellon, Vytas Jankauskas
 
+#### Final Week, presentation - 2026.03.13
+
+##### [WATCH THE FINAL VIDEO HERE](https://drive.switch.ch/index.php/s/Ncs5WrPaIbbjoQC?path=%2Fmd1-ai-family%2F03.documentation%2FFamilyDinner)!!
+![](2-1.png)
+
+In preparattion for the Kikk Festival 2026:
+- think about the mediation
+- add embroidered napkins
+- add more to the 3rd personality
+
 #### Final Week, production - 2026.03.12
 Shooting day and fixing day. 
 |![](process/03-12studio.jpeg) |![](process/03-12burger.jpeg) |![](process/03-12metal.jpeg) |![](process/03-12eyes.jpeg) |
